@@ -14,11 +14,15 @@
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## 14.0.0 - 2042-10-06
+## [Ionicons](https://ionicons.com/)
 
-### Added
+* 收錄700多種免費的icon圖示，@benjsperry 設計，有有常見的社群網站的圖示。
 
-* Introduced animals into the world, we believe they're going to be a neat addition.
+![](.gitbook/assets/image%20%282%29.png)
 
+## [Flat icon](https://www.flaticon.com/)
 
+* 提供 40 幾萬圖標，有 PNG、SVG、EPS、PSD 和 Base 64 可下載，還可選擇顏色和尺寸。
+
+![](.gitbook/assets/image%20%283%29.png)
 
