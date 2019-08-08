@@ -26,3 +26,11 @@
 
 ![](.gitbook/assets/image%20%283%29.png)
 
+#### [Material.icons](https://material.io/)
+
+* 在 resources，裡面有許多icon可以直接安裝使用。
+
+![](.gitbook/assets/image%20%284%29.png)
+
+
+
